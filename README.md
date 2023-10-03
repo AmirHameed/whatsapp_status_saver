@@ -28,9 +28,9 @@ WhatsApp Status Downloader is a Flutter-based mobile application that allows use
 
 ### Clone the Repository
 
-```bash
 git clone https://github.com/your-username/whatsapp_status_downloader.git
-cd whatsapp_status_downloader
+cd whatsapp_status_downloader  
+
 ### Install Dependencies
 1 - flutter pub get
 2- Run the App
